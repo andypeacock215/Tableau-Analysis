@@ -6,6 +6,7 @@ This is work that I did in Tableau during my Data Technician Skills Bootcamp.
 This project used the EMSI_JobChange_UK dataset: [EMSI_JobChange_UK.xlsx](https://github.com/user-attachments/files/18153182/EMSI_JobChange_UK.xlsx)
 
 Here are the resulting screen shots:
+
 <img width="414" alt="Day1Task2_1" src="https://github.com/user-attachments/assets/c7e19ccc-dac9-447f-8182-d98f9804bbe8" />
 
 ![Day1Task2_2](https://github.com/user-attachments/assets/f83ba27b-fded-4e2a-8b44-97bf1dd9a025)

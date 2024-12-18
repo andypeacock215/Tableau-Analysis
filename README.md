@@ -37,11 +37,11 @@ And this is the link to the online dashboard:
 [Project 2 Dashboard](https://public.tableau.com/views/SpotifyDashboard_17314101330910/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Some of the insights I had from this were:
-World music has the longest average length, whereas Children’s music has the shortest.
-Pop was most popular, but Children’s music was least popular.
-Duration and Popularity have no clear correlation.
-Raggaeton was the loudest on average, while Classical was the quietest.
-Pop had the most popular artists, however A Capella has the least popular.
+* World music has the longest average length, whereas Children’s music has the shortest.
+* Pop was most popular, but Children’s music was least popular.
+* Duration and Popularity have no clear correlation.
+* Raggaeton was the loudest on average, while Classical was the quietest.
+* Pop had the most popular artists, however A Capella has the least popular.
 
 
 ## Project 3: Health data
@@ -55,10 +55,10 @@ Here is a screenshot of the dashboard created:
 An online version can be found [here](https://public.tableau.com/views/3_1_Your_first_symbol_maporiginal_17344277387960/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 Some of the insights I had from this were:
-Highest blood pressures are mostly in European and African countries, but lower in western and eastern countries.
-Lowest life expectancies are in African countries, whereas most of the rest of the world is much higher.
-Higher BMIs tend to be in many of the “first world” countries, but lower in the majority of Africa and Asia.
-There is a positive correlation between the life expectancies for men and women, but some outliers show that this is now always the case, and, for example, women’s life expectancy is more than 10 years lower than men’s in Kazakhstan.
+* Highest blood pressures are mostly in European and African countries, but lower in western and eastern countries.
+* Lowest life expectancies are in African countries, whereas most of the rest of the world is much higher.
+* Higher BMIs tend to be in many of the “first world” countries, but lower in the majority of Africa and Asia.
+* There is a positive correlation between the life expectancies for men and women, but some outliers show that this is now always the case, and, for example, women’s life expectancy is more than 10 years lower than men’s in Kazakhstan.
 
 
 ## Project 4: Gaming Sales data
